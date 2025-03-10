@@ -1,4 +1,4 @@
-<h2 align="left">Oi, sou Fernando, apaixonado por tecnologia e sempre em busca de novos desafios para aprender e crescer! 😃🎮📕💻</h2>
+<h2 align="left">Oi, sou Fernando, apaixonado por tecnologia e sempre estou em busca de novos desafios para aprender e crescer! 😃🎮📕💻</h2>
 
 ###
 
